@@ -6,5 +6,11 @@ public class SearchPage {
 		
 		System.out.println("Search Page");
 	}
+	
+	
+	public void searchPageUnique(){
+		
+		System.out.println("Search Page Unique");
+	}
 
 }
